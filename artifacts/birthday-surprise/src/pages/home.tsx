@@ -138,7 +138,7 @@ export default function Home() {
               </motion.div>
               
               <h1 className="font-[family-name:var(--font-display)] text-7xl md:text-9xl lg:text-[10rem] text-foreground mb-6 leading-tight drop-shadow-[0_0_30px_rgba(255,255,255,0.1)]">
-                Jhanvi
+                Janvi
               </h1>
               
               <motion.div
@@ -234,7 +234,7 @@ export default function Home() {
             >
               <div className="w-16 h-[1px] bg-secondary/50" />
               <p className="font-[family-name:var(--font-display)] text-4xl md:text-5xl text-secondary">
-                Happy Birthday, Jhanvi
+                Happy Birthday, Janvi
               </p>
               <p className="font-sans text-xs tracking-widest text-foreground/40 uppercase">
                 Made with love
